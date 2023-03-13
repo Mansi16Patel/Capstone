@@ -1,0 +1,40 @@
+.text{
+    color: white;
+}
+
+.btn1{
+    background-color: brown;
+    font-size: 1.5rem;
+    color: white;
+    border: solid white;
+    margin-top: 5%;
+    
+}
+.result{
+    margin-bottom: 3%;
+}
+.table-header {
+    color: #cecece;
+    font-size: 1.1em;
+    text-align: center;
+    background: #212121;
+    padding: 18px 0;
+}
+table {
+    margin-top: 5%;
+    width: 100%;
+}
+.table-header  > tr > td{
+    border: 1px solid white;   
+}
+.table-body  > tr > td{
+    border: 1px solid white;   
+}
+.table-body {
+    font-size: 1.1em;
+    text-align: center;
+    /* color: #cecece; */
+   
+    padding: 18px 0;
+    color: red;
+}

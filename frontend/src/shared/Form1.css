@@ -1,0 +1,28 @@
+.form{
+    color: white;
+    
+}
+.form1{
+    color: red;
+    text-decoration: none;
+    border:solid;
+    border-width: 1px;
+    margin-top: 10px;
+    padding: .2em 1.7em;
+}
+.error{
+    color: red;
+}
+.input{
+    margin-left: 2%;
+    border-color: white;
+    color: white;
+}
+
+.btn{
+    padding: .2em 1.7em;
+   
+    color:white;
+    text-decoration: none;
+    background-color: #faff5a;
+}

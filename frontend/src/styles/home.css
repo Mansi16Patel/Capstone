@@ -1,0 +1,29 @@
+.quote{
+    color: red;
+    padding-left: 20%;
+}
+
+
+.quote1{
+    color: white;
+}
+
+.hero__img-box img{
+    width: 100%;
+    height:250px;
+    border-radius: 20px;
+    border: 1px solid;
+    object-fit: cover;
+
+}
+.hero__content{
+    padding-top: 3.5rem;
+}
+
+.testimonial__title{
+    font-size: 2.3rem;
+    margin-top: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}

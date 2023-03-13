@@ -1,0 +1,34 @@
+.contactus{
+    color: white;
+  }
+.contact{
+    color: white;
+    text-align: center;
+    border:solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 30px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color:red;
+}
+.input{
+    color: white;
+}
+.maintext
+{
+    text-align: center;
+}
+label{
+background-color: red;
+}
+#message{
+    height:100px;
+    width: 600px;
+}
+#contact
+{
+    background-color: red;
+    width:100px;
+    color:black;
+}
